@@ -5,6 +5,6 @@ in the style of finishing their code in threads of comments.
 
 The program can be run with the following:
 
-> stack exec collab-code -- post <postID>
+> stack exec collab-code -- post \<postID\>
 
-> stack exec collab-code -- comment <commentID>
+> stack exec collab-code -- comment \<commentID\>
