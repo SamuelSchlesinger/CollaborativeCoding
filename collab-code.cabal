@@ -1,0 +1,10 @@
+name: collab-code
+version: 0.0.1.0
+cabal-version: >= 1.12
+
+executable collab-code
+  main-is: collab.hs
+  build-depends: reddit
+               , mtl, transformers
+               , text
+               , base >= 4.7 && < 5
